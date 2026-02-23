@@ -1,0 +1,15 @@
+C:\Users\dilan\source\repos\asisya\ProviderOptimizer.Application\bin\Debug\net10.0\ProviderOptimizer.Application.deps.json
+C:\Users\dilan\source\repos\asisya\ProviderOptimizer.Application\bin\Debug\net10.0\ProviderOptimizer.Application.dll
+C:\Users\dilan\source\repos\asisya\ProviderOptimizer.Application\bin\Debug\net10.0\ProviderOptimizer.Application.pdb
+C:\Users\dilan\source\repos\asisya\ProviderOptimizer.Application\bin\Debug\net10.0\ProviderOptimizer.Domain.dll
+C:\Users\dilan\source\repos\asisya\ProviderOptimizer.Application\bin\Debug\net10.0\ProviderOptimizer.Domain.pdb
+C:\Users\dilan\source\repos\asisya\ProviderOptimizer.Application\obj\Debug\net10.0\ProviderOptimizer.Application.csproj.AssemblyReference.cache
+C:\Users\dilan\source\repos\asisya\ProviderOptimizer.Application\obj\Debug\net10.0\ProviderOptimizer.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilan\source\repos\asisya\ProviderOptimizer.Application\obj\Debug\net10.0\ProviderOptimizer.Application.AssemblyInfoInputs.cache
+C:\Users\dilan\source\repos\asisya\ProviderOptimizer.Application\obj\Debug\net10.0\ProviderOptimizer.Application.AssemblyInfo.cs
+C:\Users\dilan\source\repos\asisya\ProviderOptimizer.Application\obj\Debug\net10.0\ProviderOptimizer.Application.csproj.CoreCompileInputs.cache
+C:\Users\dilan\source\repos\asisya\ProviderOptimizer.Application\obj\Debug\net10.0\Provider.EF5A8E97.Up2Date
+C:\Users\dilan\source\repos\asisya\ProviderOptimizer.Application\obj\Debug\net10.0\ProviderOptimizer.Application.dll
+C:\Users\dilan\source\repos\asisya\ProviderOptimizer.Application\obj\Debug\net10.0\refint\ProviderOptimizer.Application.dll
+C:\Users\dilan\source\repos\asisya\ProviderOptimizer.Application\obj\Debug\net10.0\ProviderOptimizer.Application.pdb
+C:\Users\dilan\source\repos\asisya\ProviderOptimizer.Application\obj\Debug\net10.0\ref\ProviderOptimizer.Application.dll

@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="asisya/ProviderOptimizer.API.csproj" />
+  <Project Path="ProviderOptimizer.Application/ProviderOptimizer.Application.csproj" />
+  <Project Path="ProviderOptimizer.Domain/ProviderOptimizer.Domain.csproj" />
+  <Project Path="ProviderOptimizer.Infrastructure/ProviderOptimizer.Infrastructure.csproj" />
+  <Project Path="ProviderOptimizer.Tests/ProviderOptimizer.Tests.csproj" />
+</Solution>

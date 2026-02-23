@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "ProviderOptimizer.API.Controller.ProvidersController",
+    "Method": "Assign",
+    "RelativePath": "api/providers/assign",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

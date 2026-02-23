@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dilan\\source\\repos\\asisya\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF06B52-E041-D8EA-E64F-10631A155800}|asisya\\ProviderOptimizer.API.csproj|c:\\users\\dilan\\source\\repos\\asisya\\asisya\\model\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF06B52-E041-D8EA-E64F-10631A155800}|asisya\\ProviderOptimizer.API.csproj|solutionrelative:asisya\\model\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF06B52-E041-D8EA-E64F-10631A155800}|asisya\\ProviderOptimizer.API.csproj|c:\\users\\dilan\\source\\repos\\asisya\\asisya\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1AF06B52-E041-D8EA-E64F-10631A155800}|asisya\\ProviderOptimizer.API.csproj|solutionrelative:asisya\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF06B52-E041-D8EA-E64F-10631A155800}|asisya\\ProviderOptimizer.API.csproj|c:\\users\\dilan\\source\\repos\\asisya\\asisya\\docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{1AF06B52-E041-D8EA-E64F-10631A155800}|asisya\\ProviderOptimizer.API.csproj|solutionrelative:asisya\\docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF06B52-E041-D8EA-E64F-10631A155800}|asisya\\ProviderOptimizer.API.csproj|c:\\users\\dilan\\source\\repos\\asisya\\asisya\\provideroptimizer.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1AF06B52-E041-D8EA-E64F-10631A155800}|asisya\\ProviderOptimizer.API.csproj|solutionrelative:asisya\\provideroptimizer.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF06B52-E041-D8EA-E64F-10631A155800}|asisya\\ProviderOptimizer.API.csproj|c:\\users\\dilan\\source\\repos\\asisya\\asisya\\interface\\iproviderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF06B52-E041-D8EA-E64F-10631A155800}|asisya\\ProviderOptimizer.API.csproj|solutionrelative:asisya\\interface\\iproviderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF06B52-E041-D8EA-E64F-10631A155800}|asisya\\ProviderOptimizer.API.csproj|c:\\users\\dilan\\source\\repos\\asisya\\asisya\\model\\providerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF06B52-E041-D8EA-E64F-10631A155800}|asisya\\ProviderOptimizer.API.csproj|solutionrelative:asisya\\model\\providerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF06B52-E041-D8EA-E64F-10631A155800}|asisya\\ProviderOptimizer.API.csproj|c:\\users\\dilan\\source\\repos\\asisya\\asisya\\domain\\provider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF06B52-E041-D8EA-E64F-10631A155800}|asisya\\ProviderOptimizer.API.csproj|solutionrelative:asisya\\domain\\provider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF06B52-E041-D8EA-E64F-10631A155800}|asisya\\ProviderOptimizer.API.csproj|c:\\users\\dilan\\source\\repos\\asisya\\asisya\\controller\\assignproviderusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF06B52-E041-D8EA-E64F-10631A155800}|asisya\\ProviderOptimizer.API.csproj|solutionrelative:asisya\\controller\\assignproviderusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF06B52-E041-D8EA-E64F-10631A155800}|asisya\\ProviderOptimizer.API.csproj|c:\\users\\dilan\\source\\repos\\asisya\\asisya\\dto\\providerresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF06B52-E041-D8EA-E64F-10631A155800}|asisya\\ProviderOptimizer.API.csproj|solutionrelative:asisya\\dto\\providerresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF06B52-E041-D8EA-E64F-10631A155800}|asisya\\ProviderOptimizer.API.csproj|c:\\users\\dilan\\source\\repos\\asisya\\asisya\\request\\assignproviderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF06B52-E041-D8EA-E64F-10631A155800}|asisya\\ProviderOptimizer.API.csproj|solutionrelative:asisya\\request\\assignproviderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF06B52-E041-D8EA-E64F-10631A155800}|asisya\\ProviderOptimizer.API.csproj|c:\\users\\dilan\\source\\repos\\asisya\\asisya\\interface\\iproviderselectionpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF06B52-E041-D8EA-E64F-10631A155800}|asisya\\ProviderOptimizer.API.csproj|solutionrelative:asisya\\interface\\iproviderselectionpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF06B52-E041-D8EA-E64F-10631A155800}|asisya\\ProviderOptimizer.API.csproj|c:\\users\\dilan\\source\\repos\\asisya\\asisya\\interface\\distanceratingselectionpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF06B52-E041-D8EA-E64F-10631A155800}|asisya\\ProviderOptimizer.API.csproj|solutionrelative:asisya\\interface\\distanceratingselectionpolicy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CEBEFEF-5797-4340-143E-9B7925D562DC}|ProviderOptimizer.Infrastructure\\ProviderOptimizer.Infrastructure.csproj|c:\\users\\dilan\\source\\repos\\asisya\\provideroptimizer.infrastructure\\provideroptimizer.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9CEBEFEF-5797-4340-143E-9B7925D562DC}|ProviderOptimizer.Infrastructure\\ProviderOptimizer.Infrastructure.csproj|solutionrelative:provideroptimizer.infrastructure\\provideroptimizer.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5257BA19-B84B-DECC-C375-BD8D2487105B}|ProviderOptimizer.Tests\\ProviderOptimizer.Tests.csproj|c:\\users\\dilan\\source\\repos\\asisya\\provideroptimizer.tests\\provideroptimizer.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5257BA19-B84B-DECC-C375-BD8D2487105B}|ProviderOptimizer.Tests\\ProviderOptimizer.Tests.csproj|solutionrelative:provideroptimizer.tests\\provideroptimizer.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF06B52-E041-D8EA-E64F-10631A155800}|asisya\\ProviderOptimizer.API.csproj|c:\\users\\dilan\\source\\repos\\asisya\\asisya\\controller\\providerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF06B52-E041-D8EA-E64F-10631A155800}|asisya\\ProviderOptimizer.API.csproj|solutionrelative:asisya\\controller\\providerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF06B52-E041-D8EA-E64F-10631A155800}|asisya\\ProviderOptimizer.API.csproj|c:\\users\\dilan\\source\\repos\\asisya\\asisya\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF06B52-E041-D8EA-E64F-10631A155800}|asisya\\ProviderOptimizer.API.csproj|solutionrelative:asisya\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{946454A9-64EF-A8BF-D078-1A25BAD1FDF6}|ProviderOptimizer.Domain\\ProviderOptimizer.Domain.csproj|c:\\users\\dilan\\source\\repos\\asisya\\provideroptimizer.domain\\provider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{946454A9-64EF-A8BF-D078-1A25BAD1FDF6}|ProviderOptimizer.Domain\\ProviderOptimizer.Domain.csproj|solutionrelative:provideroptimizer.domain\\provider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6537B785-D361-91AB-0C96-E4466430C268}|ProviderOptimizer.Application\\ProviderOptimizer.Application.csproj|c:\\users\\dilan\\source\\repos\\asisya\\provideroptimizer.application\\provideroptimizer.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6537B785-D361-91AB-0C96-E4466430C268}|ProviderOptimizer.Application\\ProviderOptimizer.Application.csproj|solutionrelative:provideroptimizer.application\\provideroptimizer.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5257BA19-B84B-DECC-C375-BD8D2487105B}|ProviderOptimizer.Tests\\ProviderOptimizer.Tests.csproj|c:\\users\\dilan\\source\\repos\\asisya\\provideroptimizer.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5257BA19-B84B-DECC-C375-BD8D2487105B}|ProviderOptimizer.Tests\\ProviderOptimizer.Tests.csproj|solutionrelative:provideroptimizer.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CEBEFEF-5797-4340-143E-9B7925D562DC}|ProviderOptimizer.Infrastructure\\ProviderOptimizer.Infrastructure.csproj|c:\\users\\dilan\\source\\repos\\asisya\\provideroptimizer.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CEBEFEF-5797-4340-143E-9B7925D562DC}|ProviderOptimizer.Infrastructure\\ProviderOptimizer.Infrastructure.csproj|solutionrelative:provideroptimizer.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6537B785-D361-91AB-0C96-E4466430C268}|ProviderOptimizer.Application\\ProviderOptimizer.Application.csproj|c:\\users\\dilan\\source\\repos\\asisya\\provideroptimizer.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6537B785-D361-91AB-0C96-E4466430C268}|ProviderOptimizer.Application\\ProviderOptimizer.Application.csproj|solutionrelative:provideroptimizer.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{946454A9-64EF-A8BF-D078-1A25BAD1FDF6}|ProviderOptimizer.Domain\\ProviderOptimizer.Domain.csproj|c:\\users\\dilan\\source\\repos\\asisya\\provideroptimizer.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{946454A9-64EF-A8BF-D078-1A25BAD1FDF6}|ProviderOptimizer.Domain\\ProviderOptimizer.Domain.csproj|solutionrelative:provideroptimizer.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\asisya\\asisya\\docker-compose.yml",
+              "RelativeDocumentMoniker": "asisya\\docker-compose.yml",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\asisya\\asisya\\docker-compose.yml",
+              "RelativeToolTip": "asisya\\docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-02-23T13:41:59.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\asisya\\asisya\\Dockerfile",
+              "RelativeDocumentMoniker": "asisya\\Dockerfile",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\asisya\\asisya\\Dockerfile",
+              "RelativeToolTip": "asisya\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-23T13:41:19.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\asisya\\asisya\\Model\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "asisya\\Model\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\asisya\\asisya\\Model\\AppDbContext.cs",
+              "RelativeToolTip": "asisya\\Model\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T03:49:55.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Provider.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\asisya\\asisya\\Domain\\Provider.cs",
+              "RelativeDocumentMoniker": "asisya\\Domain\\Provider.cs",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\asisya\\asisya\\Domain\\Provider.cs",
+              "RelativeToolTip": "asisya\\Domain\\Provider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T03:35:10.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AssignProviderUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\asisya\\asisya\\Controller\\AssignProviderUseCase.cs",
+              "RelativeDocumentMoniker": "asisya\\Controller\\AssignProviderUseCase.cs",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\asisya\\asisya\\Controller\\AssignProviderUseCase.cs",
+              "RelativeToolTip": "asisya\\Controller\\AssignProviderUseCase.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T03:29:07.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProviderResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\asisya\\asisya\\DTO\\ProviderResponseDto.cs",
+              "RelativeDocumentMoniker": "asisya\\DTO\\ProviderResponseDto.cs",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\asisya\\asisya\\DTO\\ProviderResponseDto.cs",
+              "RelativeToolTip": "asisya\\DTO\\ProviderResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T03:27:35.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AssignProviderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\asisya\\asisya\\Request\\AssignProviderRequest.cs",
+              "RelativeDocumentMoniker": "asisya\\Request\\AssignProviderRequest.cs",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\asisya\\asisya\\Request\\AssignProviderRequest.cs",
+              "RelativeToolTip": "asisya\\Request\\AssignProviderRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T03:27:10.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProviderSelectionPolicy.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\asisya\\asisya\\Interface\\IProviderSelectionPolicy.cs",
+              "RelativeDocumentMoniker": "asisya\\Interface\\IProviderSelectionPolicy.cs",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\asisya\\asisya\\Interface\\IProviderSelectionPolicy.cs",
+              "RelativeToolTip": "asisya\\Interface\\IProviderSelectionPolicy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T03:08:53.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProviderOptimizer.API.csproj",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\asisya\\asisya\\ProviderOptimizer.API.csproj",
+              "RelativeDocumentMoniker": "asisya\\ProviderOptimizer.API.csproj",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\asisya\\asisya\\ProviderOptimizer.API.csproj",
+              "RelativeToolTip": "asisya\\ProviderOptimizer.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-23T01:55:22.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProviderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\asisya\\asisya\\Model\\ProviderRepository.cs",
+              "RelativeDocumentMoniker": "asisya\\Model\\ProviderRepository.cs",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\asisya\\asisya\\Model\\ProviderRepository.cs",
+              "RelativeToolTip": "asisya\\Model\\ProviderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T03:52:53.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProviderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\asisya\\asisya\\Interface\\IProviderRepository.cs",
+              "RelativeDocumentMoniker": "asisya\\Interface\\IProviderRepository.cs",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\asisya\\asisya\\Interface\\IProviderRepository.cs",
+              "RelativeToolTip": "asisya\\Interface\\IProviderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T03:08:40.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DistanceRatingSelectionPolicy.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\asisya\\asisya\\Interface\\DistanceRatingSelectionPolicy.cs",
+              "RelativeDocumentMoniker": "asisya\\Interface\\DistanceRatingSelectionPolicy.cs",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\asisya\\asisya\\Interface\\DistanceRatingSelectionPolicy.cs",
+              "RelativeToolTip": "asisya\\Interface\\DistanceRatingSelectionPolicy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T03:09:04.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProviderOptimizer.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\asisya\\ProviderOptimizer.Infrastructure\\ProviderOptimizer.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "ProviderOptimizer.Infrastructure\\ProviderOptimizer.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\asisya\\ProviderOptimizer.Infrastructure\\ProviderOptimizer.Infrastructure.csproj",
+              "RelativeToolTip": "ProviderOptimizer.Infrastructure\\ProviderOptimizer.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-23T01:56:46.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProviderOptimizer.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\asisya\\ProviderOptimizer.Tests\\ProviderOptimizer.Tests.csproj",
+              "RelativeDocumentMoniker": "ProviderOptimizer.Tests\\ProviderOptimizer.Tests.csproj",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\asisya\\ProviderOptimizer.Tests\\ProviderOptimizer.Tests.csproj",
+              "RelativeToolTip": "ProviderOptimizer.Tests\\ProviderOptimizer.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-23T01:57:03.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProvidersController.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\asisya\\asisya\\Controller\\ProvidersController.cs",
+              "RelativeDocumentMoniker": "asisya\\Controller\\ProvidersController.cs",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\asisya\\asisya\\Controller\\ProvidersController.cs",
+              "RelativeToolTip": "asisya\\Controller\\ProvidersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T02:43:59.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\asisya\\asisya\\Program.cs",
+              "RelativeDocumentMoniker": "asisya\\Program.cs",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\asisya\\asisya\\Program.cs",
+              "RelativeToolTip": "asisya\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T02:44:03.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Provider.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\asisya\\ProviderOptimizer.Domain\\Provider.cs",
+              "RelativeDocumentMoniker": "ProviderOptimizer.Domain\\Provider.cs",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\asisya\\ProviderOptimizer.Domain\\Provider.cs",
+              "RelativeToolTip": "ProviderOptimizer.Domain\\Provider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T03:03:26.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProviderOptimizer.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\asisya\\ProviderOptimizer.Application\\ProviderOptimizer.Application.csproj",
+              "RelativeDocumentMoniker": "ProviderOptimizer.Application\\ProviderOptimizer.Application.csproj",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\asisya\\ProviderOptimizer.Application\\ProviderOptimizer.Application.csproj",
+              "RelativeToolTip": "ProviderOptimizer.Application\\ProviderOptimizer.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-23T01:56:23.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\asisya\\ProviderOptimizer.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "ProviderOptimizer.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\asisya\\ProviderOptimizer.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "ProviderOptimizer.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T01:54:51.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\asisya\\ProviderOptimizer.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "ProviderOptimizer.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\asisya\\ProviderOptimizer.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "ProviderOptimizer.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T01:52:58.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\asisya\\ProviderOptimizer.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "ProviderOptimizer.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\asisya\\ProviderOptimizer.Application\\Class1.cs",
+              "RelativeToolTip": "ProviderOptimizer.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T01:52:20.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\dilan\\source\\repos\\asisya\\ProviderOptimizer.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "ProviderOptimizer.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\dilan\\source\\repos\\asisya\\ProviderOptimizer.Domain\\Class1.cs",
+              "RelativeToolTip": "ProviderOptimizer.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T01:51:54.887Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

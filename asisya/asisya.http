@@ -1,0 +1,6 @@
+@asisya_HostAddress = http://localhost:5211
+
+GET {{asisya_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

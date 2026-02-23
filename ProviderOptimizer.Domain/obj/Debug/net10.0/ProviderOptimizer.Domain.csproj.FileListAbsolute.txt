@@ -1,0 +1,11 @@
+C:\Users\dilan\source\repos\asisya\ProviderOptimizer.Domain\bin\Debug\net10.0\ProviderOptimizer.Domain.deps.json
+C:\Users\dilan\source\repos\asisya\ProviderOptimizer.Domain\bin\Debug\net10.0\ProviderOptimizer.Domain.dll
+C:\Users\dilan\source\repos\asisya\ProviderOptimizer.Domain\bin\Debug\net10.0\ProviderOptimizer.Domain.pdb
+C:\Users\dilan\source\repos\asisya\ProviderOptimizer.Domain\obj\Debug\net10.0\ProviderOptimizer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilan\source\repos\asisya\ProviderOptimizer.Domain\obj\Debug\net10.0\ProviderOptimizer.Domain.AssemblyInfoInputs.cache
+C:\Users\dilan\source\repos\asisya\ProviderOptimizer.Domain\obj\Debug\net10.0\ProviderOptimizer.Domain.AssemblyInfo.cs
+C:\Users\dilan\source\repos\asisya\ProviderOptimizer.Domain\obj\Debug\net10.0\ProviderOptimizer.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dilan\source\repos\asisya\ProviderOptimizer.Domain\obj\Debug\net10.0\ProviderOptimizer.Domain.dll
+C:\Users\dilan\source\repos\asisya\ProviderOptimizer.Domain\obj\Debug\net10.0\refint\ProviderOptimizer.Domain.dll
+C:\Users\dilan\source\repos\asisya\ProviderOptimizer.Domain\obj\Debug\net10.0\ProviderOptimizer.Domain.pdb
+C:\Users\dilan\source\repos\asisya\ProviderOptimizer.Domain\obj\Debug\net10.0\ref\ProviderOptimizer.Domain.dll
